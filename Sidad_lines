@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KURDSH CITY RP</title>
+
+  <style>
+    body {
+      background: #111;
+      color: white;
+      font-family: Arial;
+      text-align: center;
+      padding-top: 100px;
+    }
+
+    h1 {
+      color: red;
+      font-size: 40px;
+    }
+
+    button {
+      background: red;
+      color: white;
+      border: none;
+      padding: 15px 30px;
+      border-radius: 8px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>KURDSH CITY RP</h1>
+  <p>بەخێربێیت بۆ وێبسایتەکەمان</p>
+
+  <button>JOIN SERVER</button>
+
+</body>
+</html>
